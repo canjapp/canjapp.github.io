@@ -1,2 +1,2 @@
-# canjapp.github.io
-The Tinder for companies
+# canjapp
+Proyecto de Fundamentos Web - Bictia
